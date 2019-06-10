@@ -29,3 +29,8 @@ public class WriteData {
     }
     
 }
+/*
+    write(int)
+    write(byte[])
+    write(byte[],int,int)
+*/
